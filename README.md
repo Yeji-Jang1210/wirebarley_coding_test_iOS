@@ -4,19 +4,17 @@
 
 ## 개발환경
 
----
-
 1. UIKit 사용
 
 2. 외부라이브러리 사용 금지
 
 3. iOS Deployment Target : iOS 13.0
 
-## 구현 결과
-
----
+## 구현 결과  
 
 ![구현결과](https://github.com/Yeji-Jang1210/wirebarley_coding_test_iOS/assets/62092491/37182b3a-bfaa-4b5d-b31e-8e3f4631b80b)
+
+![구현영상](https://github.com/Yeji-Jang1210/wirebarley_coding_test_iOS/assets/62092491/a5e8e1d9-23fe-40c0-9006-6be8f0ffaab0)
 
 
 - 송금액을 입력한 후, PickerView의 통화를 변경하면 수취국가에 따른 수취금액이 변경됩니다.
@@ -25,8 +23,6 @@
 - JSON으로 timestamp를 받아와 “yyyy-MM-dd HH:mm”의 날짜 형식으로 표시합니다.
 
 ## 주요 기능 설명
-
----
 
 ### API Service
 
